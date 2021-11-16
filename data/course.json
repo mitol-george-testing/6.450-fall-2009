@@ -1,0 +1,35 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Engineering",
+      "Electrical Engineering",
+      "Digital Systems"
+    ],
+    [
+      "Engineering",
+      "Electrical Engineering",
+      "Telecommunications"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "8f48e2ea-0e69-7608-6a52-d475fea60a77",
+      "22919973-76d9-6579-fec7-758296156572"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Principles of Digital Communication I",
+  "course_description": "The course serves as an introduction to the theory and practice behind many of today's communications systems. 6.450 forms the first of a two-course sequence on digital communication. The second class, _6.451 Principles of Digital Communication II_, is offered in the spring.\n\nTopics covered include: digital communications at the block diagram level, data compression, Lempel-Ziv algorithm, scalar and vector quantization, sampling and aliasing, the Nyquist criterion, PAM and QAM modulation, signal constellations, finite-energy waveform spaces, detection, and modeling and system design for wireless communication.\n",
+  "department_numbers": [
+    "6"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "6.450",
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Exams",
+    "Problem Sets"
+  ],
+  "title": "Course Metadata"
+}
